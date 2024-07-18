@@ -1,0 +1,14 @@
+Registration successful: {
+  companyName: 'St Joseph Engineering College',
+  clientID: '887cd249-9125-4a75-a4b9-266942d575a5',
+  clientSecret: 'hXMQSUKVjFcxCSjM',
+  ownerName: 'Anupama S',
+  ownerEmail: 'anupamacks589@gmail.com',
+  rollNo: '4SO21AI006'
+}
+
+Authorization token received: {
+  token_type: 'Bearer',
+  access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzIxMjk1MTQ3LCJpYXQiOjE3MjEyOTQ4NDcsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6Ijg4N2NkMjQ5LTkxMjUtNGE3NS1hNGI5LTI2Njk0MmQ1NzVhNSIsInN1YiI6ImFudXBhbWFja3M1ODlAZ21haWwuY29tIn0sImNvbXBhbnlOYW1lIjoiU3QgSm9zZXBoIEVuZ2luZWVyaW5nIENvbGxlZ2UiLCJjbGllbnRJRCI6Ijg4N2NkMjQ5LTkxMjUtNGE3NS1hNGI5LTI2Njk0MmQ1NzVhNSIsImNsaWVudFNlY3JldCI6ImhYTVFTVUtWakZjeENTak0iLCJvd25lck5hbWUiOiJBbnVwYW1hIFMiLCJvd25lckVtYWlsIjoiYW51cGFtYWNrczU4OUBnbWFpbC5jb20iLCJyb2xsTm8iOiI0U08yMUFJMDA2In0.5_Uo2POFz8lApi7FzjR1G9_b11Tml6WQEbjRLClqXAg',
+  expires_in: 1721295147
+}
